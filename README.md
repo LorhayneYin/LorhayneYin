@@ -8,6 +8,7 @@
 🛠️ Hard Skills
 
 - Linguagem C
+- Git
 - Banco de Dados
 - CRM
 - Salesforce
