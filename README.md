@@ -1,6 +1,6 @@
 # Olá, eu sou a Lorhayne!
 
-👋 Sou estudante de Análise e Desenvolvimento de Sistemas e entusiasta da programação. Procuro uma oportunidade de estágio para aprimorar meus conhecimentos de forma prática. 
+👋 Sou estudante de Análise e Desenvolvimento de Sistemas e entusiasta da programação.
  
 
 🔍 Busco oportunidades desafiadoras no campo de desenvolvimento back-end, front-end e Salesforce onde eu possa aplicar meu interesse pela programação e contribuir para projetos inovadores.
